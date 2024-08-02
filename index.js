@@ -7,7 +7,7 @@
              remove } from "https://www.gstatic.com/firebasejs/10.12.5/firebase-database.js"
 
     const firebaseConfig = { 
-        databaseURL: "https://lead-tracker-app-4a722-default-rtdb.europe-west1.firebasedatabase.app/"
+        databaseURL:"https://lead-tracker-app-4a722-default-rtdb.europe-west1.firebasedatabase.app/"
     }
 
     const app = initializeApp(firebaseConfig)
